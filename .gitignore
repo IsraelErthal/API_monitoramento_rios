@@ -1,0 +1,7 @@
+.venv/
+.env
+dados.db
+dados.db-*
+__pycache__/
+.pytest_cache/
+models_store/
